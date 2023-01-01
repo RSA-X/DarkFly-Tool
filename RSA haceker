@@ -1,0 +1,17 @@
+>>Apt update && apt upgrade
+>>pkg install git
+>>git clone http;//github.com/Ranginang67/DarkFly-Tool
+>>ls
+>>cd DarkFly-Tool
+>>ls
+>>chmod +x install.py
+>>pkg install python2
+>>ls
+>>python2 install.py
+>>DarkFly
+>>
+>>>
+>>>>
+>>>>>
+>>>>>>
+>>>>>>>>>>>>>>Welcome to RSA-X >>>>>>>>>>>>>>>
